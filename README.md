@@ -1,0 +1,2 @@
+# Javascript_Experimenting
+Created an account on openweathermap.org, used free api key and the openweathermap api to extract specific weather data in JSON format from Charlotte, NC. Parsed the JSON data and output the data in a presentable format in Charlotte_WeatherPage.html. Used javascript to pull random pictures with AJAX and create a UI/UX for displaying a specified amount of pictures in randomuser_pics.html.
